@@ -3,5 +3,6 @@ public class HelloWorld {
  System.out.println("Hello World");
  System.out.println("Hello Mars");
  System.out.println("Hello Alpha Centauri");
+ System.out.println("KILL ALL HUMANS");
  }
 }
